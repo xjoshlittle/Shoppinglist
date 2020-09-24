@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="64f6d048-98a1-4b99-9497-0fbc9ed59960" name="bootcamp-coders.cnm.edu" url="https://bootcamp-coders.cnm.edu/~jlittle10/shoppinglist">
+        <fileTransfer rootFolder="/home/jlittle10/public_html/shoppinglist" accessType="SFTP" host="bootcamp-coders.cnm.edu" port="22" sshConfigId="970c93de-78c4-4f91-8f3a-d00e369a121b" sshConfig="jlittle10@bootcamp-coders.cnm.edu:22 agent" authAgent="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
